@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+aiofiles
+pyngrok
+python-multipart
+trimesh
+torch
+torchvision
+hy3dgen
+nest_asyncio
+gradio
