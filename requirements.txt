@@ -1,3 +1,5 @@
+hy3dgen
+huggingface_hub
 fastapi
 uvicorn
 aiofiles
@@ -6,6 +8,5 @@ python-multipart
 trimesh
 torch
 torchvision
-hy3dgen
-nest_asyncio
 gradio
+nest-asyncio
