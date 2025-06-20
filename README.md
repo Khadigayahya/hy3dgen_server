@@ -282,12 +282,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 4. Add tests if applicable
 5. Submit a pull request
 
-## Support
-
-- 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-repo/hunyuan3d-api/issues)
-- 📖 Documentation: [Wiki](https://github.com/your-repo/hunyuan3d-api/wiki)
-
 ## Acknowledgments
 
 - [Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) by Tencent
